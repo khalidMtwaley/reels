@@ -1,0 +1,6 @@
+class APIConstants {
+  static const String baseURL = 'https://api.sawalef.app';
+  static const String getReelsEndPoint = '/api/v1/reels';
+
+}
+
